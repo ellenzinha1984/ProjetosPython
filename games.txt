@@ -1,0 +1,3 @@
+Mario;SNES
+007;N64
+Smite;XBOXONE

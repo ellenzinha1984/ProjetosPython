@@ -1,4 +1,4 @@
-# Meus Projetos de Phyton - UNINTER
+# Meus Projetos de Python - UNINTER
 
 ## Curso de Tecnologia em Ciência de dados
 
